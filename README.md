@@ -1,4 +1,4 @@
-# poo
+# PROYECTO TORNEO
 Repositorio para la enseñanza de la POO
 
 ## [Introducción](./00%20-%20Introducción/)
